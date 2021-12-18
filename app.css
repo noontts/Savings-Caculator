@@ -1,0 +1,96 @@
+body{
+    font-family: 'Kanit', sans-serif;
+    background: #fdfdfd url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2019_06/2746941/190208-stock-money-fanned-out-ew-317p.jpg') no-repeat;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  width: 100%;
+  height: auto;
+}
+input{
+  width: 120px;
+  height: 25px;
+  border-radius: 10px;
+  padding:0.5px;
+  transition: .5s;
+}
+
+input:focus{
+  width: 130px;
+  transition: .5s;
+}
+.btn123{
+ margin: center;
+ width: 70px;
+ height:32px;
+ border-radius:15px;
+ background-color: rgb(255, 255, 255);
+ color:rgb(0, 0, 0);
+ font-size: 15px;
+ font-weight:bold;
+}
+.btn123:hover{
+  width: 80px;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  transition: .6s;
+}
+.result123{
+  text-align: center;
+}
+.rate123{
+  text-align: center;
+}
+.rate456{
+  text-align: center;
+}
+.rate789{
+  text-align: center;
+}
+.box456{
+  text-align: center;
+  width: 8cm;
+  height: 4cm;
+  border-style: groove;
+  border-radius: 15px;
+  background-color: ivory;
+}
+.img-thumbnail{
+  width: 200px;
+  height: 250px;
+  align-items: center;
+}
+.box123456{
+  align-items: center ;
+  border-style: groove;
+  border-radius: 15px;
+  
+}
+.iphone_input
+{
+  width: 130px;
+  height: 25px;
+  border-radius: 10px;
+  padding:0.5px;
+  transition: .5s;
+}
+.iphone_input:focus
+{
+  width: 250px;
+  transition: .5s;
+}
+.macbook_input
+{
+  width: 130px;
+  height: 25px;
+  border-radius: 10px;
+  padding:0.5px;
+  transition: .5s;
+}
+.macbook_input:focus
+{
+  width: 250px;
+  transition: .5s;
+}
